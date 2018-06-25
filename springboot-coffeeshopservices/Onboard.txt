@@ -1,0 +1,30 @@
+
+Add Customer :
+
+{
+  "address": "US",
+  "customerName": "navaneeth",
+  "phoneNumber": "9986752467",
+  "state": "CA"
+}
+
+Add Coffee:
+
+{
+  "description": "capacino",
+  "name": "capacino",
+  "price(USD)": 10,
+  "totalAvailablity": 100
+}
+
+Process Order:
+
+{
+  "coffeedetails": {
+    "quantity": 2,
+    "variety": "capacino"
+  },
+  "customerName": "navaneeth"
+}
+
+
